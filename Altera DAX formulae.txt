@@ -1,0 +1,13 @@
+Altera DAX formulae
+
+CURRENT_DATE = NOW()- For date card
+
+Average_age = AVERAGE(AlteraEmpData[Age])
+
+Average_Service_Length = AVERAGE(AlteraEmpData[Length_of_Service])
+
+Average_Training_Score = AVERAGE(AlteraEmpData[Avg_Training_Score])
+
+Total_Employees = COUNT(AlteraEmpData[EmpID])
+
+Working_Location = AlteraEmpData[Location]&",Ghana"
