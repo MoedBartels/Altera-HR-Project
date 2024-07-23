@@ -8,6 +8,7 @@ This repository contains all the files related to the Altera HR Analytics projec
 - **Report/Altera_Report.pdf**: The detailed report of the HR analytics project.
 - **Data/Altera_Emp_Data.xlsx**: The Excel file containing the employee data used for analysis.
 - **PowerBI/Altera_.pbix**: The Power BI dashboard file.
+- **Altera_Dax_Formulae.txt**: The DAX formulas used in this project
 
 ## Project Description
 The objective of this project is to develop a comprehensive HR analytics dashboard that provides insightful reporting on the workforce of Altera. 
