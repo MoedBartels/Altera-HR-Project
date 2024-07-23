@@ -5,8 +5,8 @@ An analysis on the workforce of a fictional company called altera
 This repository contains all the files related to the Altera HR Analytics project, including the report, Power BI dashboard, and the dataset used for analysis.
 
 ## Files
-- **Report/Altera_Report.pdf**: The detailed report of the HR analytics project.
-- **PowerBI/Altera_.pbix**: The Power BI dashboard file.
+- **Altera_Report.pdf**: The detailed report of the HR analytics project.
+- **Altera_.pbix**: The Power BI dashboard file.
 - **Altera_Dax_Formulae.txt**: The DAX formulas used in this project
 
 ## Project Description
